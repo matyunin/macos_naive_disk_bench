@@ -1,0 +1,6 @@
+# Build artifact
+diskbench
+
+# Benchmark data
+*.dat
+
